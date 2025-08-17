@@ -57,7 +57,4 @@ Luego, abre el archivo TelecomX_LATAM.ipynb con Jupyter Notebook, Google Colab o
 
 ## 📌 Autor
 
-Proyecto realizado por **Javier Cañete** como parte del Challenger Telecom X de Alura One.
-Si te gustó este proyecto o tenés sugerencias, ¡no dudes en abrir un issue o contribuir!
-
----
+Proyecto realizado por **Dante Salcedo** como parte del Challenger Telecom X de Alura One.
